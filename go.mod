@@ -1,3 +1,3 @@
-module github.com/BooksLiu/protobuf
+module github.com/booksliu/protobuf
 
 go 1.12
